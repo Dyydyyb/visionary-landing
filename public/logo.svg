@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 110" fill="none" width="100%" height="100%">
+  <!-- Stylized Phoenix / Bird in flat corporate steel blue and slate gray -->
+  <g id="phoenix-mark" transform="translate(10, 5)">
+    <!-- Outer Wing Feather (Upper) - Steel Blue -->
+    <path d="M48 6 C58 20 64 36 62 52 C54 44 45 40 34 38 C42 26 46 16 48 6Z" fill="#1B3A5C" />
+    
+    <!-- Main Sweeping Wing (Central) - Navy Blue -->
+    <path d="M68 18 C78 34 78 52 70 70 C60 58 48 52 35 48 C49 38 60 28 68 18Z" fill="#2C5578" />
+    
+    <!-- Accent Wing Feather - Slate Gray -->
+    <path d="M84 34 C90 48 88 64 78 80 C70 70 58 64 44 60 C58 52 74 44 84 34Z" fill="#8FA3B0" />
+    
+    <!-- Phoenix Head and Crest -->
+    <path d="M30 18 C33 22 34 27 33 32 C30 33 27 32 24 30 C20 32 16 35 12 37 C15 34 19 31 22 28 C23 23 26 19 30 18Z" fill="#1B3A5C" />
+    <path d="M22 28 L14 34 L23 35 L26 31 Z" fill="#2C5578" />
+    
+    <!-- Phoenix Body & Breast -->
+    <path d="M33 32 C35 42 32 54 24 66 C20 58 22 48 26 40 C28 36 30 34 33 32Z" fill="#1B3A5C" />
+    
+    <!-- Tail Plumes - Sleek Geometric Feathers -->
+    <path d="M24 66 C20 76 14 84 6 92 C14 86 20 80 23 72 C25 69 24 67 24 66Z" fill="#8FA3B0" />
+    <path d="M28 64 C26 74 22 84 16 94 C23 88 28 80 30 72 Z" fill="#2C5578" />
+    <path d="M32 62 C34 72 32 82 28 92 C33 84 36 76 35 68 Z" fill="#1B3A5C" />
+  </g>
+
+  <!-- Corporate Typography: VISIONARY -->
+  <g id="phoenix-text" transform="translate(120, 20)">
+    <!-- Wordmark -->
+    <text x="0" y="44" font-family="'Plus Jakarta Sans', 'Montserrat', 'Inter', system-ui, sans-serif" font-size="38" font-weight="900" letter-spacing="4" fill="#1B3A5C">VISIONARY</text>
+    <!-- Tagline -->
+    <text x="2" y="66" font-family="'Plus Jakarta Sans', 'Inter', system-ui, sans-serif" font-size="10.5" font-weight="700" letter-spacing="3.2" fill="#8FA3B0">SOLUCIONES EMPRESARIALES &amp; CONTABLES</text>
+  </g>
+</svg>
